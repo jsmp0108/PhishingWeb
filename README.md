@@ -1,7 +1,7 @@
 # Phishing Website Detection System
 A machine learning-based system for detecting phishing websites using URL analysis and pattern recognition.
 
-About The Project
+## About The Project
 This system analyzes URLs to identify potentially malicious websites using multiple machine learning algorithms. It extracts 30+ features from URL structure, suspicious patterns, and security indicators to make accurate predictions.
 Trained on: Kaggle Phishing URL Dataset by Michael Sannova (11,000+ URLs)
 Key Features:
