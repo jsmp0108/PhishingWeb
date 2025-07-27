@@ -18,7 +18,8 @@ Python 3.7+
 
 pip package manager
 
-Setup
+### Setup
+
 bashgit clone https://github.com/yourusername/phishing-detection-system.git
 cd phishing-detection-system
 pip install -r requirements.txt
